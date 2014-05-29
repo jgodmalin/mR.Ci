@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Loads" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Registered" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Key1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KGFVY-7733B-8WCK9-KTG64-BC7D8</Value>
+    </Setting>
+    <Setting Name="Key2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VBWYT-BBWKV-P86YX-G642C-3C3D3</Value>
+    </Setting>
+    <Setting Name="Key3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DQDV2-3TV93-3WW78-2CMV4-86QD3</Value>
+    </Setting>
+    <Setting Name="Key4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RHMX7-M3T4C-2JF7R-VTDJV-KPBMB</Value>
+    </Setting>
+    <Setting Name="Key5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H7G9G-HQ46M-BKFG7-MPFF4-TMVYD</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
